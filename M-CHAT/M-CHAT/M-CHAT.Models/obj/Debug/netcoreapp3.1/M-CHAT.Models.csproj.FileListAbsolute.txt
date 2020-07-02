@@ -1,0 +1,24 @@
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.deps.json
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.dll
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.AssemblyInfo.cs
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.runtimeconfig.json
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.genruntimeconfig.cache
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.pdb
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.dll
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.pdb
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.deps.json
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.runtimeconfig.json
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.dll
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\bin\Debug\netcoreapp3.1\M-CHAT.Models.pdb
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.AssemblyInfo.cs
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.dll
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.pdb
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Models\obj\Debug\netcoreapp3.1\M-CHAT.Models.genruntimeconfig.cache

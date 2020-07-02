@@ -1,5 +1,5 @@
 ﻿@page
-@model M_CHAT.Pages.RegistrarseModel
+@model M_CHAT.Pages.RegisterTutorModel
 @{
 
 }
@@ -18,18 +18,27 @@
             <li class="list-group-item">
                 <div class="form-group">
                     <label for="ControlInput1">Nombre del Tutor</label>
-                    <input type="text" class="form-control" id="ControlInput1" placeholder="nombre">
+                    <input type="text" asp-for="Tutor.Nombre" class="form-control form-text" placeholder="Nombre del Tutor">
+                    <span class="text-danger" asp-validation-for="Tutor.Nombre"></span>
                 </div>
             </li>
             <li class="list-group-item">
                 <div class="form-group">
-                    <label for="ControlInput2">Direccion Del Tutor</label>
-                    <input type="text" class="form-control" id="ControlInput2" placeholder="Direccion">
+                    <label for="ControlInput1">Direccion del Tutor</label>
+                    <input type="text" asp-for="Tutor.Direccion" class="form-control form-text" placeholder="Direccion del Tutor">
+                    <span class="text-danger" asp-validation-for="Tutor.Direccion"></span>
                 </div>
             </li>
             <li class="list-group-item">
                 <div class="form-group">
-                    <label for="ControlInput3">Correo Electronico Del Tuor</label>
+                    <label for="ControlInput1">Direccion del Tutor</label>
+                    <input type="text" asp-for="Tutor.Direccion" class="form-control form-text" placeholder="Direccion del Tutor">
+                </div>
+            </li>
+
+            <li class="list-group-item">
+                <div class="form-group">
+                    <label for="ControlInput3">Ingrese una contraseña</label>
                     <input type="text" class="form-control" id="ControlInput3" placeholder="Correo">
                 </div>
             </li>

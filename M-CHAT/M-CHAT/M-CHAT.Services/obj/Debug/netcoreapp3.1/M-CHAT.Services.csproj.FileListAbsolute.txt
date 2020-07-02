@@ -1,0 +1,30 @@
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Models.dll
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.AssemblyInfo.cs
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.deps.json
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.runtimeconfig.json
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.dll
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.pdb
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Models.pdb
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.csproj.CopyComplete
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.dll
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.pdb
+C:\Users\carlo\Desktop\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.genruntimeconfig.cache
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.deps.json
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.runtimeconfig.json
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.dll
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Services.pdb
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Models.dll
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\bin\Debug\netcoreapp3.1\M-CHAT.Models.pdb
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.AssemblyInfo.cs
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.csproj.CopyComplete
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.dll
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.pdb
+C:\Users\kevin\Desktop\PROYECTO M-CHAT FINAL\PROYECTO-M-CHAT-master\M-CHAT\M-CHAT\M-CHAT.Services\obj\Debug\netcoreapp3.1\M-CHAT.Services.genruntimeconfig.cache
