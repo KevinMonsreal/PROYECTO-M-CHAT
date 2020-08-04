@@ -1,0 +1,132 @@
+﻿@page
+@model M_CHAT.Pages.RegisterTutorModel
+@{
+
+}
+
+<h1 class="text-dark">Registrarse</h1>
+<div class="d-flex justify-content-end">
+
+</div>
+
+<p>
+    <div class="card" style="width: 69.9rem;">
+        <div class="card-header">
+            Registro del Tutor
+        </div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+                <div class="form-group">
+                    <label for="ControlInput1">Nombre del Tutor</label>
+                    <input type="text" asp-for="Tutor.Nombre" class="form-control form-text" placeholder="Nombre del Tutor">
+                    <span class="text-danger" asp-validation-for="Tutor.Nombre"></span>
+                </div>
+            </li>
+            <li class="list-group-item">
+                <div class="form-group">
+                    <label for="ControlInput2">Direccion Del Tutor</label>
+                    <input type="text" class="form-control" id="ControlInput2" placeholder="Direccion">
+                </div>
+            </li>
+            <li class="list-group-item">
+                <div class="form-group">
+                    <label for="ControlInput3">Correo Electronico Del Tuor</label>
+                    <input type="text" class="form-control" id="ControlInput3" placeholder="Correo">
+                </div>
+            </li>
+
+            <li class="list-group-item">
+                <div class="form-group">
+                    <label for="ControlInput3">Ingrese una contraseña</label>
+                    <input type="text" class="form-control" id="ControlInput3" placeholder="Correo">
+                </div>
+            </li>
+            <li class="list-group-item">
+                <div class="form-group">
+                    <a asp-page="/Index" class="btn btn-danger m-1">Cancelar</a>
+                </div>
+            </li>
+
+
+        </ul>
+    </div>
+</p>
+<p>
+    <div class="card" style="width: 69.9rem;">
+        <div class="card-header">
+            Registrar Niño
+        </div>
+        <!--TabPanes-->
+        <div class="tab-content">
+            <div id="datosInfante" class="tab-pane fade show active" role="tabpanel" aria-labelledby="datosInfante-tab">
+                <div class="form-group row">
+                    <label for="ControlInput4" class="col-form-label col-sm-2">
+                        Nombre Completo del niño:
+                    </label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="ControlInput4" placeholder="">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="ControlInput5" class="col-form-label col-sm-2">
+                        CURP del niño:
+                    </label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="ControlInput5" placeholder="">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="ControlInput6" class="col-form-label col-sm-2">
+                        Nacionalidad del niño:
+                    </label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="ControlInput5" placeholder="">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="ControlInput7" class="col-form-label col-sm-2">
+                        Fecha de nacimiento:
+                    </label>
+                    <div class="col-sm-10">
+                        <input type="date" data-role="" class="form-control" id="ControlInput7">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="ControlInput8" class="col-form-label col-sm-2">
+                        Genero:
+                    </label>
+                    <div class="col-sm-10">
+                        <div class="form-check-inline">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" name="optradio">
+
+                                Masculino
+
+                            </label>
+                        </div>
+                        <div class="form-check-inline">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" name="optradio">
+
+                                Femenino
+
+                            </label>
+                        </div>
+                        <div class="form-check-inline">
+                            <label class="form-check-label">
+                                <input type="radio" class="form-check-input" name="optradio">
+
+                                Otro
+
+                            </label>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <a asp-page="/Index" class="btn btn-danger m-1">Cancelar</a>
+                        <a asp-page="/Cuestionario" class="btn btn-success m-1">Siguiente</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+</p>
+

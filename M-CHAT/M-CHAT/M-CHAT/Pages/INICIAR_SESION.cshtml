@@ -4,23 +4,18 @@
     ViewData["Title"] = "INICIAR_SESION";
 }
 
-<h1>Iniciar Sesion</h1>
+<h1>INICIAR_SESION</h1>
 <p>
     <div class="card" style="width: 30rem;">
         <ul class="list-group list-group-flush">
             <li class="list-group-item">
-                <img id="profile-img" class="profile-img-card" src="~/Images/Login.png" />
-                <div class="form-group">
-                    <br />
-                    <div class="form-group">
-                        <label for="Email" class="text-uppercase">Correo electronico</label>
-                        <input type="text" name="email" value="" placeholder="Escribir email" class="form-control" required />
-                    </div>
 
-                    <div class="form-group">
-                        <label for="Contraseña" class="text-uppercase">Contraseña</label>
-                        <input type="password" name="contraseña" value="" placeholder="Escribir Contraseña" class="form-control" required />
-                    </div><br />
+                <div class="form-group">
+                    <label for="ControlInput2">Correo Electronico</label>
+                    <input type="Correo" class="form-control" id="ControlInput2" placeholder="Correo Electronico"> 
+                    <label for="ControlInput2">Contraseña</label>
+                    <input type="password" class="form-control" id="ControlInput2" placeholder="Contraseña">
+                    <br />
                     <div class="d-flex justify-content-end">
                         <a asp-page="/Index" class="btn btn-danger m-1">Cancelar</a>
                         <a asp-page="/Cuestionario" class="btn btn-outline-info m-1">Iniciar Sesion</a>
@@ -29,3 +24,5 @@
             </li>
         </ul>
     </div>
+
+
